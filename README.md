@@ -1,2 +1,0 @@
-# DSWP
-Assignment
